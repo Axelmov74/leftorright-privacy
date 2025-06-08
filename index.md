@@ -77,7 +77,7 @@ Since we do not collect personally identifiable data, there is no identifiable i
 If you have any questions about this Privacy Policy, please contact us:
 
 **Email**: narutmov74@gmail.com  
-**Developer**: Axelmov
+**Developer**: Axelmov  
 **Country**: France
 
 ---
